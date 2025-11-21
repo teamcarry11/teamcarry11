@@ -48,17 +48,14 @@
 │        our internal space. we take what others have                     │
 │        built and study it, learn from it, make it                       │
 │        our own while honoring its origin.                               │
-│                                                                         │
 │        grainorder gives time a name. each file                          │
 │        marked with its moment, each commit a                            │
 │        timestamp in the river of change. we track                       │
 │        not just what, but when, and in what order.                      │
-│                                                                         │
 │        graintime connects us to cosmic cycles.                          │
 │        moon phases, star positions, the turning of                      │
 │        the year. we mark our work not just by clock                     │
 │        time, but by the dance of planets overhead.                      │
-│                                                                         │
 │        xy-mathematics is our operating system,                          │
 │        our kernel, our foundation. risc-v native,                       │
 │        built for repairability and long life. we                        │
