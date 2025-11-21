@@ -34,7 +34,6 @@
 │        was code. we write not just to execute, but                      │
 │        to teach. each function a lesson, each module                    │
 │        a chapter in the book of understanding.                          │
-│                                                                         │
 │        the monorepo is our library, grainstore our                      │
 │        archive. we collect not for ourselves alone,                     │
 │        but for those who come after. knowledge flows                    │
