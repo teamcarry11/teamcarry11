@@ -93,17 +93,6 @@
 │        but in code that lasts. we build for thirty                      │
 │        years, not thirty days. each decision made                       │
 │        with care for the long term.                                     │
-│                                                                         │
-│        the star card speaks of hope, of guidance,                       │
-│        of finding one's way in darkness. we carry                       │
-│        this light forward, sharing knowledge freely,                    │
-│        building tools that others can use and learn.                    │
-│                                                                         │
-│        aquarius is the water bearer, the one who                        │
-│        brings life to dry places. we bring knowledge                    │
-│        to those who seek it, code to those who                          │
-│        need it, wisdom to those who are ready.                          │
-│                                                                         │
 │        email: kj3x39@gmail.com                                          │
 │        github: @kae3g                                                   │
 │        instagram: @risc.love                                            │
