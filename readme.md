@@ -5,7 +5,7 @@
 │                                                                         │
 │                             ' carry water '                             │
 │                                                                         │
-│                 ⚫ Aquarius 11 , .. Tarot XVII. The Star                 │
+│                ⚫ Aquarius 11 , .. Tarot XVII. The Star                  │
 │                                                                         │
 │        the wisdom carriers who preserve knowledge                       │
 │        and pour it forward. the star brings external                    │
