@@ -7,11 +7,11 @@
 │                                                                         │
 │                ⚫ Aquarius 11 , .. Tarot XVII. The Star                  │
 │                                                                         │
+│                                                                         │
 │        the wisdom carriers who preserve knowledge                       │
 │        and pour it forward. the star brings external                    │
 │        waters (repos) into internal pools (grainstore)                  │
 │        for study and learning.                                          │
-│                                                                         │
 │        we mirror external repositories into our monorepo                │
 │        structure, maintaining a single source of truth                  │
 │        while preserving the original context and history                │
