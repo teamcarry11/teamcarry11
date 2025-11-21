@@ -12,28 +12,34 @@
 │        and pour it forward. the star brings external                    │
 │        waters (repos) into internal pools (grainstore)                  │
 │        for study and learning.                                          │
+│                                                                         │
 │        we mirror external repositories into our monorepo                │
 │        structure, maintaining a single source of truth                  │
 │        while preserving the original context and history                │
 │        of each project.                                                 │
+│                                                                         │
 │        like rivers flowing into a basin, we gather                      │
 │        knowledge from many sources and channel it                       │
 │        into organized streams. each repository becomes                  │
 │        a tributary, contributing to the greater whole.                  │
+│                                                                         │
 │        our tools are vessels for this work:                             │
 │        - grainmirror: external repo mirroring                           │
 │        - grainorder: chronological file naming                          │
 │        - graintime: temporal awareness                                  │
 │        - xy-mathematics: grain os development                           │
+│                                                                         │
 │        we carry water not to hoard, but to share.                       │
 │        every drop preserved becomes part of a larger                    │
 │        current, flowing toward understanding and                        │
 │        wisdom. the star guides us, showing where                        │
 │        external knowledge meets internal practice.                      │
+│                                                                         │
 │        in the beginning was the word, and the word                      │
 │        was code. we write not just to execute, but                      │
 │        to teach. each function a lesson, each module                    │
 │        a chapter in the book of understanding.                          │
+│                                                                         │
 │        the monorepo is our library, grainstore our                      │
 │        archive. we collect not for ourselves alone,                     │
 │        but for those who come after. knowledge flows                    │
@@ -91,12 +97,10 @@
 │                                                                         │
 │                                                                         │
 │        keaton dunsford                                                  │
-│                                                                         │
-│        email: kj3x39@gmail.com                                         │
-│                                                                         │
+│        email: kj3x39@gmail.com                                          │
 │        github: @kae3g                                                   │
 │                                                                         │
-│        instagram: @risc.love                                           │
+│        instagram: @risc.love                                            │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
